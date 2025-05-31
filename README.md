@@ -33,7 +33,7 @@ When considering Google's tools for **design and creative assets**, "Google Stit
 
 <img src="images/stitch.png" width="800">
 
-**Google Stitch (stitch.withgoogle.com)** is an experimental tool from Google Labs that aims to bridge the gap between design ideas and functional user interfaces (UIs) by leveraging advanced AI.
+**Google Stitch ([stitch.withgoogle.com](https://stitch.withgoogle.com/))** is an experimental tool from Google Labs that aims to bridge the gap between design ideas and functional user interfaces (UIs) by leveraging advanced AI.
 
 * **Core Function:** It transforms various inputs into complex UI designs and accompanying frontend code.
 * **Inputs:**
@@ -55,7 +55,7 @@ When considering Google's tools for **design and creative assets**, "Google Stit
 
 <img src="images/flow-project.png" width="800">
 
-**Google Flow (labs.google/flow/about)** is Google's new AI filmmaking interface, purpose-built to harness the power of its advanced generative AI models like **Veo 3** (for video), **Imagen** (for images), and **Gemini** (for natural language understanding and consistency).
+**Google Flow ([labs.google/flow/about](https://labs.google/flow/about))** is Google's new AI filmmaking interface, purpose-built to harness the power of its advanced generative AI models like **Veo 3** (for video), **Imagen** (for images), and **Gemini** (for natural language understanding and consistency).
 
 * **Core Function:** It enables users to create, extend, and manage cinematic video clips and scenes using AI.
 * **Inputs:**
@@ -84,7 +84,7 @@ In today's fast-paced development landscape, getting ideas from concept to a tan
 
 <img src="images/aistudio-project.png" width="800">
 
-For developers keen on building AI-powered applications, **Google AI Studio (aistudio.google.io)** is an indispensable starting point. This web-based environment provides a streamlined way to experiment with Google's cutting-edge generative AI models, like Gemini.
+For developers keen on building AI-powered applications, **Google AI Studio ([aistudio.google.io](https://aistudio.google.com/apps))** is an indispensable starting point. This web-based environment provides a streamlined way to experiment with Google's cutting-edge generative AI models, like Gemini.
 
 **Key features for prototyping:**
 
@@ -99,7 +99,7 @@ For developers keen on building AI-powered applications, **Google AI Studio (ais
 
 <img src="images/firebase-studio-project.png" width="800">
 
-**Firebase Studio (studio.firebase.google.com)** takes app prototyping to the next level by offering a comprehensive, cloud-based development environment. It combines a full IDE (based on VS Code), AI assistance from Gemini, and deep integration with Firebase services.
+**Firebase Studio ([studio.firebase.google.com](https://firebase.studio/))** takes app prototyping to the next level by offering a comprehensive, cloud-based development environment. It combines a full IDE (based on VS Code), AI assistance from Gemini, and deep integration with Firebase services.
 
 **How Firebase Studio accelerates prototyping:**
 
@@ -109,7 +109,6 @@ For developers keen on building AI-powered applications, **Google AI Studio (ais
 * **Collaboration:** You can share your workspaces with others for real-time collaboration, facilitating team-based prototyping and development.
 
 ### Jules: Your Autonomous AI Coding Agent
-https://jules.google.com
 
 <img src="images/jules.png" width="800">
 
@@ -118,8 +117,7 @@ https://jules.google.com
 <img src="images/jules-project-done.png" width="1000">
 
 
-
-**Jules (jules.google.com)** represents a significant leap in AI-assisted development. This autonomous agent integrates directly with your GitHub repository, acting as a highly capable coding assistant that can understand intent and execute complex tasks across your codebase.
+**Jules ([jules.google.com](https://jules.google.com))** represents a significant leap in AI-assisted development. This autonomous agent integrates directly with your GitHub repository, acting as a highly capable coding assistant that can understand intent and execute complex tasks across your codebase.
 
 **How Jules empowers prototyping (and beyond):**
 
@@ -148,6 +146,8 @@ For developers who need more control than no-code platforms but still want to av
 * **Cloud Run:** This is a fully managed compute platform for deploying containerized applications. It allows you to run stateless containers that are automatically scaled up or down based on demand, even to zero instances when not in use.
     * **Prototyping Use Cases:** Ideal for microservices, web services, APIs, and event-driven functions. If your prototype involves a custom backend logic, machine learning inference endpoints, or needs to handle spiky traffic, Cloud Run is a fantastic choice. You can deploy any language or framework as long as it can be containerized.
     * **Key Strengths:** "Scale to zero" for cost efficiency, support for any language/runtime, high flexibility, and excellent integration with other Google Cloud services like Cloud SQL, Cloud Storage, and Pub/Sub.
+
+Use cases: [Cloud Run Use Cases](https://cloud.google.com/run#websites-and-web-applications)
 
 #### APIs and microservices
 <img src="images/cloudrun.png" width="800">
