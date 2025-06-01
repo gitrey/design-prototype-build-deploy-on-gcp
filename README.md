@@ -1,5 +1,10 @@
 # Design, Prototype, Build, and Deploy on Google Cloud: A Comprehensive Guide
 
+---
+**\* The opinions expressed in this article are solely those of the author([Andrey Shakirov](https://www.linkedin.com/in/andrey-shakirov-000b4a5/)) and do not reflect the views of their employer.**
+
+---
+
 This document explores a suite of powerful Google tools and Google Cloud services designed to streamline the entire application development lifecycle, from initial design and creative asset generation to rapid prototyping, building, and deploying sophisticated applications, with a special focus on leveraging cutting-edge AI capabilities.
 
 Discover how tools like **Google Stitch** and **Google Flow** are revolutionizing UI design and AI-powered filmmaking. Dive into the developer's toolkit for rapid app prototyping with **Google AI Studio**, **Firebase Studio**, and the autonomous AI coding agent **Jules**. We'll also cover low-code/no-code platforms, serverless compute options, and essential data services on Google Cloud that empower you to bring your ideas to life faster than ever.
