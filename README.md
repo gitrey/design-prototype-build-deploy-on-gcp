@@ -14,6 +14,8 @@ Discover how tools like **Google Stitch** and **Google Flow** are revolutionizin
 * [Google Flow: For AI-Powered Filmmaking and Video Asset Creation](#google-flow-for-ai-powered-filmmaking-and-video-asset-creation)
 * [Rapid App Prototyping on Google Cloud: A Developer's Toolkit](#rapid-app-prototyping-on-google-cloud-a-developers-toolkit)
   * [Google AI Studio: Your Gateway to Generative AI Applications](#google-ai-studio-your-gateway-to-generative-ai-applications)
+  * [Gemini Canvas: Collaborative AI-Powered Design and Prototyping](#gemini-canvas-collaborative-ai-powered-design-and-prototyping)
+  * [Google Opal: AI-Driven Backend Prototyping and Data Simulation](#google-opal-ai-driven-backend-prototyping-and-data-simulation)
   * [Firebase Studio: Full-Stack AI App Development in the Cloud](#firebase-studio-full-stack-ai-app-development-in-the-cloud)
   * [Jules: Your Autonomous AI Coding Agent](#jules-your-autonomous-ai-coding-agent)
   * [Low-Code/No-Code Platforms](#low-codeno-code-platforms)
@@ -97,6 +99,29 @@ For developers keen on building AI-powered applications, **Google AI Studio ([ai
 * **Code Generation and Deployment:** AI Studio now offers native code generation capabilities, allowing you to generate app code from simple text, image, or video prompts. Crucially, you can deploy these generated apps directly to Cloud Run with a single click, providing a stable HTTPS endpoint that scales automatically. This significantly shortens the loop from idea to a shareable, functional web application.
 * **Multimodal Capabilities:** With access to models like Gemini, Imagen, and Veo, AI Studio empowers you to build applications that understand and generate various modalities, including text, code, images, audio, and video.
 * **URL Context Tool:** An experimental tool that enables models to retrieve and reference content from provided URLs, aiding in tasks like fact-checking, summarization, and deeper research, which can be invaluable for many AI-driven applications.
+
+### Gemini Canvas: Collaborative AI-Powered Design and Prototyping
+
+**Gemini Canvas ([gemini.google/overview/canvas](https://gemini.google/overview/canvas/))** is an interactive, collaborative workspace within Google Gemini that accelerates the initial stages of application design and prototyping. It provides a fluid environment where ideas can be rapidly visualized, iterated upon, and transformed into functional, interactive outputs.
+
+**How Gemini Canvas accelerates prototyping:**
+
+*   **AI-Assisted Ideation & Rapid Prototyping:** Users can describe app concepts in natural language, and Gemini Canvas generates visual mockups, user flows, and even basic interactive prototypes. This allows for quick exploration of diverse design possibilities, turning a single sentence into a working application.
+*   **Code Generation:** It can generate code for designs, including HTML and React, streamlining the transition from concept to a web app prototype.
+*   **Visual Editing:** A "Select and Ask" feature allows for visual editing of app components by clicking and describing desired changes in natural language, with instant updates.
+*   **Collaborative Design Environment:** Canvas is designed for real-time creation, refining, and sharing of documents and code, making it a collaborative space for multiple stakeholders.
+*   **Versatile and Multimodal:** Beyond apps, it can create quizzes, dashboards, web pages, and presentations. Leveraging Gemini's multimodal capabilities, users can input sketches, images, or spoken descriptions to receive rich visual and textual outputs.
+
+### Google Opal: AI-Driven Backend Prototyping and Data Simulation
+
+**Google Opal ([opal.google](https://opal.google/))** is an experimental tool from Google Labs for prototyping AI ideas and workflows. It enables users to build and share AI mini-apps using natural language and visual editing, without requiring traditional coding.
+
+**How Google Opal accelerates prototyping:**
+
+*   **Automated Backend and Workflow Generation:** Opal simplifies the process of building multi-step applications by chaining together prompts and AI model calls. Users can describe the desired logic, and Opal constructs a visual workflow that can be edited and refined.
+*   **No-Code App Creation:** It allows for the creation of functional web applications from natural language, handling all the hosting to make the mini-apps instantly usable and shareable.
+*   **Rapid Prototyping:** The tool is designed for rapid prototyping and demonstration of proof-of-concept AI applications.
+*   **Powered by Gemini:** Opal is powered by Google's Gemini LLMs.
 
 ### Firebase Studio: Full-Stack AI App Development in the Cloud
 
