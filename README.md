@@ -112,13 +112,12 @@ For developers keen on building AI-powered applications, **Google AI Studio ([ai
 *   **Collaborative Design Environment:** Canvas is designed for real-time creation, refining, and sharing of documents and code, making it a collaborative space for multiple stakeholders.
 *   **Versatile and Multimodal:** Beyond apps, it can create quizzes, dashboards, web pages, and presentations. Leveraging Gemini's multimodal capabilities, users can input sketches, images, or spoken descriptions to receive rich visual and textual outputs.
 
-### Google Opal: AI-Driven Backend Prototyping and Data Simulation
+### Google Opal: Build, edit, and share AI mini-apps using natural language
 
 **Google Opal ([opal.google](https://opal.google/))** is an experimental tool from Google Labs for prototyping AI ideas and workflows. It enables users to build and share AI mini-apps using natural language and visual editing, without requiring traditional coding.
 
 **How Google Opal accelerates prototyping:**
 
-*   **Automated Backend and Workflow Generation:** Opal simplifies the process of building multi-step applications by chaining together prompts and AI model calls. Users can describe the desired logic, and Opal constructs a visual workflow that can be edited and refined.
 *   **No-Code App Creation:** It allows for the creation of functional web applications from natural language, handling all the hosting to make the mini-apps instantly usable and shareable.
 *   **Rapid Prototyping:** The tool is designed for rapid prototyping and demonstration of proof-of-concept AI applications.
 *   **Powered by Gemini:** Opal is powered by Google's Gemini LLMs.
